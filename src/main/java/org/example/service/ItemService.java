@@ -1,9 +1,7 @@
 package org.example.service;
 
-//import com.example.itemapi.model.Item;
 import org.example.Item.Item;
 import org.springframework.stereotype.Service;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
