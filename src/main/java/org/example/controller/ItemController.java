@@ -1,7 +1,4 @@
 package org.example.controller;
-
-//import org.example.itemapi.model.Item;
-//import com.example.itemapi.service.ItemService;
 import jakarta.validation.Valid;
 import org.example.Item.Item;
 import org.example.service.ItemService;
