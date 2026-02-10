@@ -31,4 +31,9 @@ public class ItemController {
                 .map(ResponseEntity::ok)
                 .orElse(ResponseEntity.notFound().build());
     }
+    @GetMapping
+    public String test() {
+        return "API is working";
+    }
+
 }
